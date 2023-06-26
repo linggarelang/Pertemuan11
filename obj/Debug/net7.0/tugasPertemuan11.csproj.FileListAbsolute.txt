@@ -1,0 +1,15 @@
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\bin\Debug\net7.0\tugasPertemuan11.exe
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\bin\Debug\net7.0\tugasPertemuan11.deps.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\bin\Debug\net7.0\tugasPertemuan11.runtimeconfig.json
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\bin\Debug\net7.0\tugasPertemuan11.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\bin\Debug\net7.0\tugasPertemuan11.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.csproj.AssemblyReference.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.AssemblyInfoInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.AssemblyInfo.cs
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.csproj.CoreCompileInputs.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\refint\tugasPertemuan11.dll
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.pdb
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\tugasPertemuan11.genruntimeconfig.cache
+D:\Kuliah\SMS2\Pemograman\Pertemuan11\tugasPertemuan11\obj\Debug\net7.0\ref\tugasPertemuan11.dll
